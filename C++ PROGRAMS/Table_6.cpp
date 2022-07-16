@@ -1,3 +1,4 @@
+# Table of 6 using while loop
 #include<iostream>
 using namespace std;
 
